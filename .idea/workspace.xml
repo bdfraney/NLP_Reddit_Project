@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efa19226-5683-4367-b14a-ffb169f36dc3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/project_3/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project_3/.gitignore" afterDir="false" />
+    <list default="true" id="efa19226-5683-4367-b14a-ffb169f36dc3" name="Default Changelist" comment="Updated Project 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project_3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/project_3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_3/Requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_3/notebooks/07_Exploring_Correlations_pt2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project_3/notebooks/07_Exploring_Correlations_pt2.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/project_3/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-741">
-                <caret line="14" column="176" selection-start-line="14" selection-start-column="176" selection-end-line="14" selection-end-column="176" />
+              <first_editor relative-caret-position="190">
+                <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,9 +38,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="342" />
-    <option name="y" value="197" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="511" />
+    <option name="y" value="240" />
     <option name="width" value="1350" />
     <option name="height" value="690" />
   </component>
@@ -78,6 +76,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -132,7 +131,7 @@
       <workItem from="1563250223608" duration="896000" />
       <workItem from="1563293600143" duration="10000" />
       <workItem from="1564273009532" duration="2739000" />
-      <workItem from="1564280781110" duration="4826000" />
+      <workItem from="1564280781110" duration="5917000" />
     </task>
     <task id="LOCAL-00001" summary="Finished project 3">
       <created>1562965502457</created>
@@ -141,17 +140,24 @@
       <option name="project" value="LOCAL" />
       <updated>1562965502457</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated Project 3">
+      <created>1564287881986</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564287881986</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19585000" />
+    <option name="totallyTimeSpent" value="20676000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="409" y="192" width="1080" height="552" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2191689" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31996086" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -165,7 +171,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013405" side_tool="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49798927" weight="0.32956153" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49865952" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49865952" weight="0.5534442" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.042432815" />
       <window_info anchor="bottom" id="Jupyter" order="13" weight="0.32956153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -208,7 +214,8 @@
       <path value="$PROJECT_DIR$/6.06-lesson-generalized_linear_models" />
     </ignored-roots>
     <MESSAGE value="Finished project 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished project 3" />
+    <MESSAGE value="Updated Project 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Project 3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/project_3/Requirements.txt" />
@@ -246,8 +253,8 @@
     <entry file="file://$PROJECT_DIR$/project_3/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-741">
-            <caret line="14" column="176" selection-start-line="14" selection-start-column="176" selection-end-line="14" selection-end-column="176" />
+          <first_editor relative-caret-position="190">
+            <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
